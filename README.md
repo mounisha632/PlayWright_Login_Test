@@ -8,6 +8,8 @@
 ## 📖 Overview
 This project contains automated, data-driven Playwright test scripts that validate the user registration and login workflows on the [Demo Webshop](https://demowebshop.tricentis.com/) website. It reads user credentials dynamically from an Excel file, executes tests in an automated browser instance, and logs detailed results (Pass/Fail/Exceptions).
 
+**Playwright Automation Demo :** https://1drv.ms/v/c/4FD702D89DCDDDA8/IQB9Dim_nsvIRZtw2k5SRSIEAaX2zWzI5Csmrix0DoXCejg?e=vshKJV
+
 ## ✨ Features
 - **Data-Driven Testing:** Reads accounts and passwords from `accounts_playwright_unique_passwords.xlsx`.
 - **Headless & UI Mode:** Easily toggleable to see the browser running in real-time.
