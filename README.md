@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1>🚀 Demo Webshop Automation</h1>
   <p><i>Automated Playwright test scripts for User Registration and Login</i></p>
@@ -60,3 +61,6 @@ python login.py
  ┣ 📜 register.py                                # Registration automation script
  ┗ 📜 login.py                                   # Login automation script
 ```
+=======
+# PlayWright_Login_Test
+>>>>>>> 2e9dd31ec66252050331ca9a5dcd41552607c769
