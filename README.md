@@ -60,6 +60,6 @@ python login.py
  ┣ 📜 register.py                                # Registration automation script
  ┗ 📜 login.py                                   # Login automation script
 ```
-=============================================================================================
+==============================================================================
 # PlayWright_Login_Test
 
