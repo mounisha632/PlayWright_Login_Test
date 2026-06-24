@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <h1>🚀 Demo Webshop Automation</h1>
   <p><i>Automated Playwright test scripts for User Registration and Login</i></p>
