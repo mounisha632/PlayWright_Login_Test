@@ -1,0 +1,321 @@
+
+================================================================================
+Login Test Started: 2026-06-24 19:36:59.585971
+================================================================================
+
+2026-06-24 19:37:06.669558 | PASS | aaa1001@gmail.com
+2026-06-24 19:37:37.170789 | EXCEPTION | bbb1002@gmail.com | Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for get_by_role("link", name="Log in")
+============================================================
+2026-06-24 19:38:07.757956 | EXCEPTION | ccc1003@gmail.com | Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for get_by_role("link", name="Log in")
+============================================================
+2026-06-24 19:38:38.163916 | EXCEPTION | ddd1004@gmail.com | 
+
+================================================================================
+Login Test Started: 2026-06-24 19:40:28.231093
+================================================================================
+
+2026-06-24 19:40:34.003517 | PASS | aaa1001@gmail.com
+2026-06-24 19:40:37.084208 | FAIL | bbb1002@gmail.com | Login unsuccessful
+2026-06-24 19:40:39.343579 | PASS | ccc1003@gmail.com
+2026-06-24 19:40:42.525622 | FAIL | ddd1004@gmail.com | Login unsuccessful
+2026-06-24 19:40:45.744441 | PASS | eee1005@gmail.com
+2026-06-24 19:40:48.939484 | FAIL | fff1006@gmail.com | Login unsuccessful
+2026-06-24 19:40:51.179200 | PASS | ggg1007@gmail.com
+2026-06-24 19:40:54.372634 | FAIL | hhh1008@gmail.com | Login unsuccessful
+2026-06-24 19:40:56.669096 | PASS | iii1009@gmail.com
+2026-06-24 19:40:59.882325 | FAIL | jjj1010@gmail.com | Login unsuccessful
+2026-06-24 19:41:02.194564 | PASS | kkk1011@gmail.com
+2026-06-24 19:41:05.614734 | FAIL | lll1012@gmail.com | Login unsuccessful
+2026-06-24 19:41:07.907634 | PASS | mmm1013@gmail.com
+2026-06-24 19:41:11.111145 | FAIL | nnn1014@gmail.com | Login unsuccessful
+2026-06-24 19:41:13.371006 | PASS | ooo1015@gmail.com
+2026-06-24 19:41:16.756156 | FAIL | ppp1016@gmail.com | Login unsuccessful
+2026-06-24 19:41:18.996165 | PASS | qqq1017@gmail.com
+2026-06-24 19:41:22.168403 | FAIL | rrr1018@gmail.com | Login unsuccessful
+2026-06-24 19:41:24.461013 | PASS | sss1019@gmail.com
+2026-06-24 19:41:27.551003 | FAIL | ttt1020@gmail.com | Login unsuccessful
+2026-06-24 19:41:29.890771 | PASS | uuu1021@gmail.com
+2026-06-24 19:41:33.304447 | FAIL | vvv1022@gmail.com | Login unsuccessful
+2026-06-24 19:41:35.440522 | PASS | www1023@gmail.com
+2026-06-24 19:41:38.603833 | FAIL | xxx1024@gmail.com | Login unsuccessful
+2026-06-24 19:41:40.960393 | PASS | yyy1025@gmail.com
+2026-06-24 19:41:44.204052 | FAIL | zzz1026@gmail.com | Login unsuccessful
+
+================================================================================
+Login Test Completed: 2026-06-24 19:41:44.591844
+================================================================================
+
+
+================================================================================
+Login Test Started: 2026-06-24 20:19:37.007419
+================================================================================
+
+2026-06-24 20:19:46.894297 | PASS | aaa1001@gmail.com
+2026-06-24 20:19:54.477990 | FAIL | bbb1002@gmail.com | Login unsuccessful
+2026-06-24 20:20:00.544548 | PASS | ccc1003@gmail.com
+2026-06-24 20:20:08.171434 | FAIL | ddd1004@gmail.com | Login unsuccessful
+2026-06-24 20:20:14.119237 | PASS | eee1005@gmail.com
+2026-06-24 20:20:21.991321 | FAIL | fff1006@gmail.com | Login unsuccessful
+2026-06-24 20:20:28.089829 | PASS | ggg1007@gmail.com
+2026-06-24 20:20:35.622619 | FAIL | hhh1008@gmail.com | Login unsuccessful
+2026-06-24 20:20:41.850205 | PASS | iii1009@gmail.com
+2026-06-24 20:20:49.355980 | FAIL | jjj1010@gmail.com | Login unsuccessful
+2026-06-24 20:20:55.342801 | PASS | kkk1011@gmail.com
+2026-06-24 20:21:02.768425 | FAIL | lll1012@gmail.com | Login unsuccessful
+2026-06-24 20:21:09.037391 | PASS | mmm1013@gmail.com
+2026-06-24 20:21:16.671283 | FAIL | nnn1014@gmail.com | Login unsuccessful
+2026-06-24 20:21:22.772681 | PASS | ooo1015@gmail.com
+2026-06-24 20:21:30.450884 | FAIL | ppp1016@gmail.com | Login unsuccessful
+2026-06-24 20:21:36.504438 | PASS | qqq1017@gmail.com
+2026-06-24 20:21:44.186943 | FAIL | rrr1018@gmail.com | Login unsuccessful
+2026-06-24 20:21:50.362458 | PASS | sss1019@gmail.com
+2026-06-24 20:21:58.018146 | FAIL | ttt1020@gmail.com | Login unsuccessful
+2026-06-24 20:22:04.100441 | PASS | uuu1021@gmail.com
+2026-06-24 20:22:11.700225 | FAIL | vvv1022@gmail.com | Login unsuccessful
+2026-06-24 20:22:17.758902 | PASS | www1023@gmail.com
+2026-06-24 20:22:25.142812 | FAIL | xxx1024@gmail.com | Login unsuccessful
+2026-06-24 20:22:31.242307 | PASS | yyy1025@gmail.com
+2026-06-24 20:22:38.811849 | FAIL | zzz1026@gmail.com | Login unsuccessful
+
+================================================================================
+Login Test Completed: 2026-06-24 20:22:39.170474
+================================================================================
+
+
+================================================================================
+Login Test Started: 2026-06-24 20:28:13.850336
+================================================================================
+
+2026-06-24 20:28:22.364037 | EXCEPTION | aaa1001@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:25.727982 | EXCEPTION | bbb1002@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:29.149097 | EXCEPTION | ccc1003@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:32.672998 | EXCEPTION | ddd1004@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:36.142420 | EXCEPTION | eee1005@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:39.726290 | EXCEPTION | fff1006@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:43.252752 | EXCEPTION | ggg1007@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:46.712274 | EXCEPTION | hhh1008@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:50.049075 | EXCEPTION | iii1009@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:53.506070 | EXCEPTION | jjj1010@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:28:57.245179 | EXCEPTION | kkk1011@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:00.960601 | EXCEPTION | lll1012@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:04.600242 | EXCEPTION | mmm1013@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:08.016152 | EXCEPTION | nnn1014@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:11.327842 | EXCEPTION | ooo1015@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:14.911831 | EXCEPTION | ppp1016@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:18.406717 | EXCEPTION | qqq1017@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:21.655971 | EXCEPTION | rrr1018@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:24.907809 | EXCEPTION | sss1019@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:28.342172 | EXCEPTION | ttt1020@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:32.038662 | EXCEPTION | uuu1021@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:35.923429 | EXCEPTION | vvv1022@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:39.274257 | EXCEPTION | www1023@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:42.688468 | EXCEPTION | xxx1024@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:45.985959 | EXCEPTION | yyy1025@gmail.com | 'Locator' object has no attribute 'triple_click'
+2026-06-24 20:29:49.254354 | EXCEPTION | zzz1026@gmail.com | 'Locator' object has no attribute 'triple_click'
+
+================================================================================
+Login Test Completed: 2026-06-24 20:29:49.640584
+================================================================================
+
+
+================================================================================
+Login Test Started: 2026-06-24 20:34:32.777586
+================================================================================
+
+2026-06-24 20:34:43.866451 | EXCEPTION | aaa1001@gmail.com | Failed to click login button
+2026-06-24 20:34:51.317772 | EXCEPTION | bbb1002@gmail.com | Failed to click login button
+2026-06-24 20:34:59.197102 | EXCEPTION | ccc1003@gmail.com | Failed to click login button
+2026-06-24 20:35:06.344612 | EXCEPTION | ddd1004@gmail.com | Failed to click login button
+2026-06-24 20:35:14.993561 | EXCEPTION | eee1005@gmail.com | Failed to click login button
+2026-06-24 20:35:21.793474 | EXCEPTION | fff1006@gmail.com | Failed to click login button
+2026-06-24 20:35:28.259737 | EXCEPTION | ggg1007@gmail.com | Failed to click login button
+2026-06-24 20:35:34.725310 | EXCEPTION | hhh1008@gmail.com | Failed to click login button
+2026-06-24 20:35:41.377682 | EXCEPTION | iii1009@gmail.com | Failed to click login button
+2026-06-24 20:35:47.891315 | EXCEPTION | jjj1010@gmail.com | Failed to click login button
+2026-06-24 20:35:54.291796 | EXCEPTION | kkk1011@gmail.com | Failed to click login button
+2026-06-24 20:36:00.721906 | EXCEPTION | lll1012@gmail.com | Failed to click login button
+2026-06-24 20:36:07.221224 | EXCEPTION | mmm1013@gmail.com | Failed to click login button
+2026-06-24 20:36:13.725260 | EXCEPTION | nnn1014@gmail.com | Failed to click login button
+2026-06-24 20:36:20.251006 | EXCEPTION | ooo1015@gmail.com | Failed to click login button
+2026-06-24 20:36:26.721516 | EXCEPTION | ppp1016@gmail.com | Failed to click login button
+2026-06-24 20:36:33.369497 | EXCEPTION | qqq1017@gmail.com | Failed to click login button
+2026-06-24 20:36:39.788295 | EXCEPTION | rrr1018@gmail.com | Failed to click login button
+2026-06-24 20:36:46.255090 | EXCEPTION | sss1019@gmail.com | Failed to click login button
+2026-06-24 20:36:52.886862 | EXCEPTION | ttt1020@gmail.com | Failed to click login button
+2026-06-24 20:36:59.319615 | EXCEPTION | uuu1021@gmail.com | Failed to click login button
+2026-06-24 20:37:05.798823 | EXCEPTION | vvv1022@gmail.com | Failed to click login button
+2026-06-24 20:37:12.199727 | EXCEPTION | www1023@gmail.com | Failed to click login button
+2026-06-24 20:37:18.650543 | EXCEPTION | xxx1024@gmail.com | Failed to click login button
+2026-06-24 20:37:25.161431 | EXCEPTION | yyy1025@gmail.com | Failed to click login button
+2026-06-24 20:37:31.966286 | EXCEPTION | zzz1026@gmail.com | Failed to click login button
+
+================================================================================
+Login Test Completed: 2026-06-24 20:37:32.294458
+================================================================================
+
+
+================================================================================
+Login Test Started: 2026-06-24 21:52:23.485798
+================================================================================
+
+2026-06-24 21:52:37.246137 | EXCEPTION | aaa1001@gmail.com | Failed to click login button
+2026-06-24 21:52:44.064053 | EXCEPTION | bbb1002@gmail.com | Failed to click login button
+2026-06-24 21:52:47.872236 | EXCEPTION | ccc1003@gmail.com | Failed to click Log in link
+2026-06-24 21:52:54.132253 | EXCEPTION | ddd1004@gmail.com | Failed to fill password field
+2026-06-24 21:52:54.607257 | EXCEPTION | eee1005@gmail.com | Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://demowebshop.tricentis.com/", waiting until "networkidle"
+
+2026-06-24 21:52:55.205317 | EXCEPTION | fff1006@gmail.com | Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://demowebshop.tricentis.com/", waiting until "networkidle"
+
+2026-06-24 21:52:56.048859 | EXCEPTION | ggg1007@gmail.com | Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://demowebshop.tricentis.com/", waiting until "networkidle"
+
+2026-06-24 21:52:57.151445 | EXCEPTION | hhh1008@gmail.com | Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://demowebshop.tricentis.com/", waiting until "networkidle"
+
+2026-06-24 21:52:58.599429 | EXCEPTION | iii1009@gmail.com | Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://demowebshop.tricentis.com/", waiting until "networkidle"
+
+2026-06-24 21:53:08.726775 | EXCEPTION | jjj1010@gmail.com | Failed to click login button
+2026-06-24 21:53:15.448740 | EXCEPTION | kkk1011@gmail.com | Failed to click login button
+2026-06-24 21:53:21.889849 | EXCEPTION | lll1012@gmail.com | Failed to click login button
+2026-06-24 21:53:28.445605 | EXCEPTION | mmm1013@gmail.com | Failed to click login button
+2026-06-24 21:53:35.116246 | EXCEPTION | nnn1014@gmail.com | Failed to click login button
+2026-06-24 21:53:41.633451 | EXCEPTION | ooo1015@gmail.com | Failed to click login button
+2026-06-24 21:53:48.273636 | EXCEPTION | ppp1016@gmail.com | Failed to click login button
+2026-06-24 21:53:54.789363 | EXCEPTION | qqq1017@gmail.com | Failed to click login button
+2026-06-24 21:54:01.420491 | EXCEPTION | rrr1018@gmail.com | Failed to click login button
+2026-06-24 21:54:08.120102 | EXCEPTION | sss1019@gmail.com | Failed to click login button
+2026-06-24 21:54:14.651531 | EXCEPTION | ttt1020@gmail.com | Failed to click login button
+2026-06-24 21:54:21.375969 | EXCEPTION | uuu1021@gmail.com | Failed to click login button
+2026-06-24 21:54:27.929263 | EXCEPTION | vvv1022@gmail.com | Failed to click login button
+2026-06-24 21:54:34.482086 | EXCEPTION | www1023@gmail.com | Failed to click login button
+2026-06-24 21:54:41.023049 | EXCEPTION | xxx1024@gmail.com | Failed to click login button
+2026-06-24 21:54:47.583187 | EXCEPTION | yyy1025@gmail.com | Failed to click login button
+2026-06-24 21:54:54.338496 | EXCEPTION | zzz1026@gmail.com | Failed to click login button
+
+================================================================================
+Login Test Completed: 2026-06-24 21:54:54.759371
+================================================================================
+
+
+================================================================================
+Login Test Started: 2026-06-24 22:03:00.853560
+================================================================================
+
+2026-06-24 22:03:11.973079 | PASS | aaa1001@gmail.com
+2026-06-24 22:03:32.158054 | FAIL | bbb1002@gmail.com | Failed to reach home page
+2026-06-24 22:03:39.954935 | PASS | ccc1003@gmail.com
+2026-06-24 22:04:00.058213 | FAIL | ddd1004@gmail.com | Failed to reach home page
+2026-06-24 22:04:07.901430 | PASS | eee1005@gmail.com
+2026-06-24 22:04:28.066671 | FAIL | fff1006@gmail.com | Failed to reach home page
+2026-06-24 22:04:35.902199 | PASS | ggg1007@gmail.com
+2026-06-24 22:04:56.052851 | FAIL | hhh1008@gmail.com | Failed to reach home page
+2026-06-24 22:05:03.854292 | PASS | iii1009@gmail.com
+2026-06-24 22:05:23.981563 | FAIL | jjj1010@gmail.com | Failed to reach home page
+2026-06-24 22:05:31.641729 | PASS | kkk1011@gmail.com
+2026-06-24 22:05:51.962913 | FAIL | lll1012@gmail.com | Failed to reach home page
+2026-06-24 22:05:59.738145 | PASS | mmm1013@gmail.com
+2026-06-24 22:06:20.197553 | FAIL | nnn1014@gmail.com | Failed to reach home page
+2026-06-24 22:06:28.212655 | PASS | ooo1015@gmail.com
+2026-06-24 22:06:48.830681 | FAIL | ppp1016@gmail.com | Failed to reach home page
+2026-06-24 22:06:57.107077 | PASS | qqq1017@gmail.com
+2026-06-24 22:07:17.703591 | FAIL | rrr1018@gmail.com | Failed to reach home page
+2026-06-24 22:07:26.275144 | PASS | sss1019@gmail.com
+2026-06-24 22:07:47.230972 | FAIL | ttt1020@gmail.com | Failed to reach home page
+2026-06-24 22:07:55.257447 | PASS | uuu1021@gmail.com
+2026-06-24 22:08:15.744874 | FAIL | vvv1022@gmail.com | Failed to reach home page
+2026-06-24 22:08:24.876420 | PASS | www1023@gmail.com
+2026-06-24 22:08:45.826278 | FAIL | xxx1024@gmail.com | Failed to reach home page
+2026-06-24 22:08:53.709897 | PASS | yyy1025@gmail.com
+2026-06-24 22:09:14.060211 | FAIL | zzz1026@gmail.com | Failed to reach home page
+
+================================================================================
+Login Test Completed: 2026-06-24 22:09:14.809722
+================================================================================
+
+
+================================================================================
+Login Test Started: 2026-06-24 22:20:43.669483
+================================================================================
+
+2026-06-24 22:20:53.338794 | PASS | aaa1001@gmail.com
+2026-06-24 22:21:00.946586 | PASS | bbb1002@gmail.com
+2026-06-24 22:21:09.521691 | PASS | ccc1003@gmail.com
+2026-06-24 22:21:17.876177 | PASS | ddd1004@gmail.com
+2026-06-24 22:21:27.911329 | PASS | eee1005@gmail.com
+2026-06-24 22:21:37.755696 | PASS | fff1006@gmail.com
+2026-06-24 22:21:47.348065 | PASS | ggg1007@gmail.com
+2026-06-24 22:21:55.248766 | PASS | hhh1008@gmail.com
+2026-06-24 22:22:09.892357 | PASS | iii1009@gmail.com
+2026-06-24 22:22:19.514303 | PASS | jjj1010@gmail.com
+2026-06-24 22:22:27.370091 | PASS | kkk1011@gmail.com
+2026-06-24 22:22:36.655367 | PASS | lll1012@gmail.com
+2026-06-24 22:22:45.664831 | PASS | mmm1013@gmail.com
+2026-06-24 22:22:54.629910 | PASS | nnn1014@gmail.com
+2026-06-24 22:23:02.027221 | PASS | ooo1015@gmail.com
+2026-06-24 22:23:10.065116 | PASS | ppp1016@gmail.com
+2026-06-24 22:23:19.024497 | PASS | qqq1017@gmail.com
+2026-06-24 22:23:28.237825 | PASS | rrr1018@gmail.com
+2026-06-24 22:23:36.873721 | PASS | sss1019@gmail.com
+2026-06-24 22:23:44.889303 | PASS | ttt1020@gmail.com
+2026-06-24 22:23:52.709811 | PASS | uuu1021@gmail.com
+2026-06-24 22:24:00.294846 | PASS | vvv1022@gmail.com
+2026-06-24 22:24:09.033797 | PASS | www1023@gmail.com
+2026-06-24 22:24:16.794424 | PASS | xxx1024@gmail.com
+2026-06-24 22:24:24.354045 | PASS | yyy1025@gmail.com
+2026-06-24 22:24:31.783782 | PASS | zzz1026@gmail.com
+
+================================================================================
+Login Test Completed: 2026-06-24 22:24:34.148834
+================================================================================
+
+
+================================================================================
+Login Test Started: 2026-06-24 22:34:26.058985
+================================================================================
+
+2026-06-24 22:34:35.332632 | PASS | aaa1001@gmail.com
+2026-06-24 22:34:42.995577 | PASS | bbb1002@gmail.com
+2026-06-24 22:34:50.598621 | PASS | ccc1003@gmail.com
+2026-06-24 22:34:58.043215 | PASS | ddd1004@gmail.com
+2026-06-24 22:35:05.466689 | PASS | eee1005@gmail.com
+2026-06-24 22:35:13.088895 | PASS | fff1006@gmail.com
+2026-06-24 22:35:20.801519 | PASS | ggg1007@gmail.com
+2026-06-24 22:35:28.183051 | PASS | hhh1008@gmail.com
+2026-06-24 22:35:35.854919 | PASS | iii1009@gmail.com
+2026-06-24 22:35:43.705872 | PASS | jjj1010@gmail.com
+2026-06-24 22:35:51.202387 | PASS | kkk1011@gmail.com
+2026-06-24 22:35:58.597224 | PASS | lll1012@gmail.com
+2026-06-24 22:36:06.394386 | PASS | mmm1013@gmail.com
+2026-06-24 22:36:13.763457 | PASS | nnn1014@gmail.com
+2026-06-24 22:36:21.354479 | PASS | ooo1015@gmail.com
+2026-06-24 22:36:28.830259 | PASS | ppp1016@gmail.com
+2026-06-24 22:36:36.632385 | PASS | qqq1017@gmail.com
+2026-06-24 22:36:44.079353 | PASS | rrr1018@gmail.com
+2026-06-24 22:36:51.560879 | PASS | sss1019@gmail.com
+2026-06-24 22:36:59.171298 | PASS | ttt1020@gmail.com
+2026-06-24 22:37:06.540512 | PASS | uuu1021@gmail.com
+2026-06-24 22:37:13.845421 | PASS | vvv1022@gmail.com
+2026-06-24 22:37:21.259733 | PASS | www1023@gmail.com
+2026-06-24 22:37:28.842736 | PASS | xxx1024@gmail.com
+2026-06-24 22:37:36.305437 | PASS | yyy1025@gmail.com
+2026-06-24 22:37:44.135239 | PASS | zzz1026@gmail.com
+2026-06-24 22:37:51.659668 | FAIL | bbb1002@gmail.com | Login was unsuccessful. Please correct the errors and try again. The credentials provided are incorrect
+2026-06-24 22:37:57.438902 | FAIL | not_real_user9999@gmail.com | Login was unsuccessful. Please correct the errors and try again. No customer account found
+2026-06-24 22:38:13.007782 | FAIL | invalid_email_format | Failed to reach home page
+
+================================================================================
+Login Test Completed: 2026-06-24 22:38:13.594143
+================================================================================
+

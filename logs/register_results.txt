@@ -1,0 +1,322 @@
+2026-06-24 19:13:45.457411 | FAIL | aaa1001@gmail.com | The specified email already exists
+2026-06-24 19:13:46.401186 | EXCEPTION | bbb1002@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:13:48.687484 | FAIL | ccc1003@gmail.com | The specified email already exists
+2026-06-24 19:13:49.608476 | EXCEPTION | ddd1004@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:13:51.873295 | FAIL | eee1005@gmail.com | The specified email already exists
+2026-06-24 19:13:52.708983 | EXCEPTION | fff1006@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:13:55.069824 | FAIL | ggg1007@gmail.com | The specified email already exists
+2026-06-24 19:13:55.821643 | EXCEPTION | hhh1008@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:13:58.040626 | FAIL | iii1009@gmail.com | The specified email already exists
+2026-06-24 19:13:58.931696 | EXCEPTION | jjj1010@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:01.423082 | FAIL | kkk1011@gmail.com | The specified email already exists
+2026-06-24 19:14:02.327985 | EXCEPTION | lll1012@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:04.780148 | FAIL | mmm1013@gmail.com | The specified email already exists
+2026-06-24 19:14:05.611961 | EXCEPTION | nnn1014@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:08.319173 | FAIL | ooo1015@gmail.com | The specified email already exists
+2026-06-24 19:14:09.191722 | EXCEPTION | ppp1016@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:11.768719 | FAIL | qqq1017@gmail.com | The specified email already exists
+2026-06-24 19:14:12.599299 | EXCEPTION | rrr1018@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:14.875369 | FAIL | sss1019@gmail.com | The specified email already exists
+2026-06-24 19:14:15.648962 | EXCEPTION | ttt1020@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:19.765445 | FAIL | uuu1021@gmail.com | The specified email already exists
+2026-06-24 19:14:20.411515 | EXCEPTION | vvv1022@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:23.197329 | FAIL | www1023@gmail.com | The specified email already exists
+2026-06-24 19:14:23.941605 | EXCEPTION | xxx1024@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:14:27.210852 | FAIL | yyy1025@gmail.com | The specified email already exists
+2026-06-24 19:14:28.069912 | EXCEPTION | zzz1026@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:14.461140 | FAIL | aaa1001@gmail.com | The specified email already exists
+2026-06-24 19:21:15.441559 | EXCEPTION | bbb1002@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:18.401828 | FAIL | ccc1003@gmail.com | The specified email already exists
+2026-06-24 19:21:19.427303 | EXCEPTION | ddd1004@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:21.911241 | FAIL | eee1005@gmail.com | The specified email already exists
+2026-06-24 19:21:22.962372 | EXCEPTION | fff1006@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:25.900928 | FAIL | ggg1007@gmail.com | The specified email already exists
+2026-06-24 19:21:26.895981 | EXCEPTION | hhh1008@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:29.887032 | FAIL | iii1009@gmail.com | The specified email already exists
+2026-06-24 19:21:30.884177 | EXCEPTION | jjj1010@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:33.065052 | FAIL | kkk1011@gmail.com | The specified email already exists
+2026-06-24 19:21:34.150962 | EXCEPTION | lll1012@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:35.826024 | FAIL | mmm1013@gmail.com | The specified email already exists
+2026-06-24 19:21:36.373121 | EXCEPTION | nnn1014@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:37.977899 | FAIL | ooo1015@gmail.com | The specified email already exists
+2026-06-24 19:21:38.579405 | EXCEPTION | ppp1016@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:40.211439 | FAIL | qqq1017@gmail.com | The specified email already exists
+2026-06-24 19:21:40.803194 | EXCEPTION | rrr1018@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:42.422037 | FAIL | sss1019@gmail.com | The specified email already exists
+2026-06-24 19:21:43.036289 | EXCEPTION | ttt1020@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:44.630067 | FAIL | uuu1021@gmail.com | The specified email already exists
+2026-06-24 19:21:45.228498 | EXCEPTION | vvv1022@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:47.011480 | FAIL | www1023@gmail.com | The specified email already exists
+2026-06-24 19:21:47.605837 | EXCEPTION | xxx1024@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:21:50.699569 | FAIL | yyy1025@gmail.com | The specified email already exists
+2026-06-24 19:21:51.258147 | EXCEPTION | zzz1026@gmail.com | Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-…/> aka get_by_label("Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-…/> aka get_by_label("Female")
+
+=========================== logs ===========================
+waiting for get_by_label("Male")
+============================================================
+2026-06-24 19:31:25.166303 | FAIL | aaa1001@gmail.com | The specified email already exists
+2026-06-24 19:31:25.785635 | EXCEPTION | bbb1002@gmail.com | Locator.check: Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-male"/> aka get_by_role("radio", name="Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-female"/> aka get_by_role("radio", name="Female")
+
+Call log:
+  - waiting for get_by_label("Male")
+
+2026-06-24 19:31:27.258069 | FAIL | ccc1003@gmail.com | The specified email already exists
+2026-06-24 19:31:27.763426 | EXCEPTION | ddd1004@gmail.com | Locator.check: Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-male"/> aka get_by_role("radio", name="Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-female"/> aka get_by_role("radio", name="Female")
+
+Call log:
+  - waiting for get_by_label("Male")
+
+2026-06-24 19:31:29.284081 | FAIL | eee1005@gmail.com | The specified email already exists
+2026-06-24 19:31:29.806019 | EXCEPTION | fff1006@gmail.com | Locator.check: Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-male"/> aka get_by_role("radio", name="Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-female"/> aka get_by_role("radio", name="Female")
+
+Call log:
+  - waiting for get_by_label("Male")
+
+2026-06-24 19:31:31.327298 | FAIL | ggg1007@gmail.com | The specified email already exists
+2026-06-24 19:31:31.851486 | EXCEPTION | hhh1008@gmail.com | Locator.check: Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-male"/> aka get_by_role("radio", name="Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-female"/> aka get_by_role("radio", name="Female")
+
+Call log:
+  - waiting for get_by_label("Male")
+
+2026-06-24 19:31:33.435187 | FAIL | iii1009@gmail.com | The specified email already exists
+2026-06-24 19:31:34.034578 | EXCEPTION | jjj1010@gmail.com | Locator.check: Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-male"/> aka get_by_role("radio", name="Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-female"/> aka get_by_role("radio", name="Female")
+
+Call log:
+  - waiting for get_by_label("Male")
+
+2026-06-24 19:31:35.602400 | FAIL | kkk1011@gmail.com | The specified email already exists
+2026-06-24 19:31:36.196707 | EXCEPTION | lll1012@gmail.com | Locator.check: Error: strict mode violation: get_by_label("Male") resolved to 2 elements:
+    1) <input value="M" type="radio" name="Gender" id="gender-male"/> aka get_by_role("radio", name="Male", exact=True)
+    2) <input value="F" type="radio" name="Gender" id="gender-female"/> aka get_by_role("radio", name="Female")
+
+Call log:
+  - waiting for get_by_label("Male")
+
+2026-06-24 19:31:37.401048 | EXCEPTION | mmm1013@gmail.com | Locator.is_visible: Target page, context or browser has been closed
+2026-06-24 19:31:37.443017 | EXCEPTION | nnn1014@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.517813 | EXCEPTION | ooo1015@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.602389 | EXCEPTION | ppp1016@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.635749 | EXCEPTION | qqq1017@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.647713 | EXCEPTION | rrr1018@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.661130 | EXCEPTION | sss1019@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.676481 | EXCEPTION | ttt1020@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.690998 | EXCEPTION | uuu1021@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.715372 | EXCEPTION | vvv1022@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.750033 | EXCEPTION | www1023@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.872064 | EXCEPTION | xxx1024@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.899032 | EXCEPTION | yyy1025@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 19:31:37.913644 | EXCEPTION | zzz1026@gmail.com | Page.goto: Target page, context or browser has been closed
+2026-06-24 22:16:18.808843 | FAIL | aaa1001@gmail.com | The specified email already exists
+2026-06-24 22:16:20.483749 | PASS | bbb1002@gmail.com
+2026-06-24 22:16:23.049505 | FAIL | ccc1003@gmail.com | The specified email already exists
+2026-06-24 22:16:25.148918 | PASS | ddd1004@gmail.com
+2026-06-24 22:16:27.563959 | FAIL | eee1005@gmail.com | The specified email already exists
+2026-06-24 22:16:29.519960 | PASS | fff1006@gmail.com
+2026-06-24 22:16:33.150847 | FAIL | ggg1007@gmail.com | The specified email already exists
+2026-06-24 22:16:35.081762 | PASS | hhh1008@gmail.com
+2026-06-24 22:16:37.536518 | FAIL | iii1009@gmail.com | The specified email already exists
+2026-06-24 22:16:39.402922 | PASS | jjj1010@gmail.com
+2026-06-24 22:16:41.665007 | FAIL | kkk1011@gmail.com | The specified email already exists
+2026-06-24 22:16:43.494186 | PASS | lll1012@gmail.com
+2026-06-24 22:16:46.337861 | FAIL | mmm1013@gmail.com | The specified email already exists
+2026-06-24 22:16:48.222346 | PASS | nnn1014@gmail.com
+2026-06-24 22:16:50.432071 | FAIL | ooo1015@gmail.com | The specified email already exists
+2026-06-24 22:16:52.195773 | PASS | ppp1016@gmail.com
+2026-06-24 22:16:54.433983 | FAIL | qqq1017@gmail.com | The specified email already exists
+2026-06-24 22:16:56.201941 | PASS | rrr1018@gmail.com
+2026-06-24 22:16:58.709819 | FAIL | sss1019@gmail.com | The specified email already exists
+2026-06-24 22:17:00.471854 | PASS | ttt1020@gmail.com
+2026-06-24 22:17:02.751005 | FAIL | uuu1021@gmail.com | The specified email already exists
+2026-06-24 22:17:04.394390 | PASS | vvv1022@gmail.com
+2026-06-24 22:17:07.346857 | FAIL | www1023@gmail.com | The specified email already exists
+2026-06-24 22:17:09.905094 | PASS | xxx1024@gmail.com
+2026-06-24 22:17:12.170248 | FAIL | yyy1025@gmail.com | The specified email already exists
+2026-06-24 22:17:13.983197 | PASS | zzz1026@gmail.com
+2026-06-24 22:19:34.482945 | FAIL | aaa1001@gmail.com | The specified email already exists
+2026-06-24 22:19:39.058939 | FAIL | bbb1002@gmail.com | The specified email already exists
+2026-06-24 22:19:40.893817 | FAIL | ccc1003@gmail.com | The specified email already exists
+2026-06-24 22:19:42.764616 | FAIL | ddd1004@gmail.com | The specified email already exists
+2026-06-24 22:19:45.227235 | FAIL | eee1005@gmail.com | The specified email already exists
+2026-06-24 22:19:48.494092 | FAIL | fff1006@gmail.com | The specified email already exists
+2026-06-24 22:19:51.680679 | FAIL | ggg1007@gmail.com | The specified email already exists
+2026-06-24 22:19:53.094422 | FAIL | hhh1008@gmail.com | The specified email already exists
+2026-06-24 22:19:54.672950 | FAIL | iii1009@gmail.com | The specified email already exists
+2026-06-24 22:19:56.493467 | FAIL | jjj1010@gmail.com | The specified email already exists
+2026-06-24 22:19:58.858175 | FAIL | kkk1011@gmail.com | The specified email already exists
+2026-06-24 22:20:00.551108 | FAIL | lll1012@gmail.com | The specified email already exists
+2026-06-24 22:20:02.231659 | FAIL | mmm1013@gmail.com | The specified email already exists
+2026-06-24 22:20:03.956497 | FAIL | nnn1014@gmail.com | The specified email already exists
+2026-06-24 22:20:05.395454 | FAIL | ooo1015@gmail.com | The specified email already exists
+2026-06-24 22:20:07.888222 | FAIL | ppp1016@gmail.com | The specified email already exists
+2026-06-24 22:20:11.001295 | FAIL | qqq1017@gmail.com | The specified email already exists
+2026-06-24 22:20:12.358692 | FAIL | rrr1018@gmail.com | The specified email already exists
+2026-06-24 22:20:13.825601 | FAIL | sss1019@gmail.com | The specified email already exists
+2026-06-24 22:20:15.345909 | FAIL | ttt1020@gmail.com | The specified email already exists
+2026-06-24 22:20:16.773122 | FAIL | uuu1021@gmail.com | The specified email already exists
+2026-06-24 22:20:18.520668 | FAIL | vvv1022@gmail.com | The specified email already exists
+2026-06-24 22:20:20.155867 | FAIL | www1023@gmail.com | The specified email already exists
+2026-06-24 22:20:21.567263 | FAIL | xxx1024@gmail.com | The specified email already exists
+2026-06-24 22:20:23.129797 | FAIL | yyy1025@gmail.com | The specified email already exists
+2026-06-24 22:20:24.605845 | FAIL | zzz1026@gmail.com | The specified email already exists
